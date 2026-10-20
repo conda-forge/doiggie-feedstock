@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: doiggie
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/doiggie/doiggie-${{ version }}.tar.gz
-  sha256: e9dd32a97d03e1517e906cfbb6e0ef8a98197f575b135845c8ed33620efcb6a4
+  sha256: 7b90d708a53283e37bc8f652bf2ba14e1a9ee0ce581aaf8b8c1d33c6fe1914be
 
 build:
   number: 0
